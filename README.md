@@ -1,6 +1,6 @@
 # computer-vision-hw2
 
-__Used with Voxel51's 'ETA' architecture__ https://www.voxel51.com/
+__Used with Voxel51's 'ETA' environment__ https://www.voxel51.com/
 
 This is the **_second of four_** homework assignments done in EECS 504 - Computer Vision Fundamentals at the University of Michigan
 
