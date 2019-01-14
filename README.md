@@ -4,6 +4,8 @@ __Used with Voxel51's 'ETA' environment__ https://www.voxel51.com/
 
 This is the **_second of four_** homework assignments done in EECS 504 - Computer Vision Fundamentals at the University of Michigan
 
+Homeworks required fairly extensive usage of __NumPy__
+
 ## Topics included:
 * Working with images as functions
 * Tensors
